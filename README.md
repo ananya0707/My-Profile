@@ -54,7 +54,7 @@ Download my resume directly from the card or click below:
 ```bash
 git clone https://github.com/ananya0707/My-Profile.git
 cd My-Profile
-
+```
 
 2.Install dependencies:
 
