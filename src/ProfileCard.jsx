@@ -20,7 +20,7 @@ const ProfileCard = () => {
     >
       {/* Profile Picture */}
       <img
-        src="https://img.freepik.com/premium-vector/woman-avatar-profile-round-icon_24640-14047.jpg"
+        src="/image.jpg"
         alt="Profile"
         className="profile-picture"
       />
@@ -42,7 +42,7 @@ const ProfileCard = () => {
       </ul>
 
       {/* Resume Button */}
-      <a href="/path-to-resume.pdf" download>
+      <a href="/Ananya.M.Rao.pdf" download>
         <button className="resume-button">Download Resume</button>
       </a>
     </div>

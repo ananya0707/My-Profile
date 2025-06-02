@@ -43,7 +43,7 @@ This is a modern, responsive profile card built using **React.js** and styled wi
 
 Download my resume directly from the card or click below:
 
-👉 [Download Resume](./Ananya_Resume.pdf) <!-- Replace with your actual resume file path -->
+👉 [Download Resume](./Ananya.M.Rao.pdf) <!-- Replace with your actual resume file path -->
 
 ---
 

@@ -9,7 +9,7 @@ const App = () => {
         name="Ananya M Rao"
         bio="ISE Student | Building tech with purpose | Driven by Innovation & Curiosity"
         profilePicture="My profile/src/img.jpg"
-        resumeLink="https://your-resume-link.com/Ananya_Resume.pdf" // <-- Replace with your actual link
+        resumeLink="https://your-resume-link.com/Ananya_Resume.pdf" 
         projects={[
           "✅ VTU Result Automation",
           "📌 Study with me (Pomodoro) webpage",
