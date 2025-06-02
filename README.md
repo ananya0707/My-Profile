@@ -53,3 +53,16 @@ Download my resume directly from the card or click below:
 ```bash
 git clone https://github.com/ananya0707/My-Profile.git
 cd My-Profile
+```
+
+2.Install dependencies:
+
+```bash
+npm install
+```
+
+3.Start the development server:
+
+```bash
+npm start
+```
