@@ -25,7 +25,7 @@ This is a modern, responsive profile card built using **React.js** and styled wi
 
 ## 📸 Demo
 
-![Profile Card Screenshot](image.png) <!-- Replace with your actual screenshot if available -->
+![Profile Card Screenshot](demo.png) <!-- Replace with your actual screenshot if available -->
 
 ---
 
