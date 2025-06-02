@@ -37,6 +37,13 @@ This is a modern, responsive profile card built using **React.js** and styled wi
 - 📋 To-Do List Web App (MERN Stack) [ongoing]
 
 ---
+## 📄 Resume
+
+Download my resume directly from the card or click below:
+
+👉 [Download Resume](image.png) <!-- Replace with your actual resume file path -->
+
+---
 
 ## 📄 Resume
 
@@ -53,7 +60,7 @@ Download my resume directly from the card or click below:
 ```bash
 git clone https://github.com/ananya0707/My-Profile.git
 cd My-Profile
-```
+
 
 2.Install dependencies:
 
