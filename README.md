@@ -1,12 +1,55 @@
-# React + Vite
+# 👩‍💻 Ananya M Rao - Profile Card Resume
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a modern, responsive profile card built using **React.js** and styled with **CSS**. It showcases my personal profile, skills, and projects in a simple and elegant layout. It also includes a link to download my resume.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌟 Features
 
-## Expanding the ESLint configuration
+- Responsive layout and centered profile card
+- Smooth hover effects and transitions
+- Clean and soft color palette
+- Includes personal photo, bio, and project list
+- Resume download button
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Technologies Used
+
+- **React.js**
+- **CSS3** (custom styling)
+- Flexbox for layout
+- Hover effects & transitions
+
+---
+
+## 📸 Demo
+
+![Profile Card Screenshot](./screenshot.png) <!-- Replace with your actual screenshot if available -->
+
+---
+
+## 📝 Projects Showcased
+
+- ✅ VTU Result Automation
+- 📌 Study With Me (Pomodoro) Webpage
+- 🔐 Tamper-Proof Certificate Authentication System (AI + Blockchain) [ongoing]
+- 📋 To-Do List Web App (MERN Stack) [ongoing]
+
+---
+
+## 📄 Resume
+
+Download my resume directly from the card or click below:
+
+👉 [Download Resume](./Ananya_Resume.pdf) <!-- Replace with your actual resume file path -->
+
+---
+
+## 🛠️ Setup Instructions
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/profile-card-resume.git
+cd profile-card-resume
