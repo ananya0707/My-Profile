@@ -23,11 +23,11 @@ This is a modern, responsive profile card built using **React.js** and styled wi
 
 ---
 
-<!-- ## 📸 Demo
+## 📸 Demo
 
-![Profile Card Screenshot]("./My profile/image.png") <!-- Replace with your actual screenshot if available -->
+![Profile Card Screenshot](image.png) <!-- Replace with your actual screenshot if available -->
 
---- -->
+---
 
 ## 📝 Projects Showcased
 
@@ -37,13 +37,7 @@ This is a modern, responsive profile card built using **React.js** and styled wi
 - 📋 To-Do List Web App (MERN Stack) [ongoing]
 
 ---
-## 📄 Resume
 
-Download my resume directly from the card or click below:
-
-👉 [Download Resume](image.png) <!-- Replace with your actual resume file path -->
-
----
 
 ## 📄 Resume
 
