@@ -51,5 +51,5 @@ Download my resume directly from the card or click below:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/profile-card-resume.git
-cd profile-card-resume
+git clone https://github.com/ananya0707/My-Profile.git
+cd My-Profile
