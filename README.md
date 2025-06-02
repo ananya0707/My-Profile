@@ -23,11 +23,11 @@ This is a modern, responsive profile card built using **React.js** and styled wi
 
 ---
 
-## 📸 Demo
+<!-- ## 📸 Demo
 
 ![Profile Card Screenshot]("./My profile/image.png") <!-- Replace with your actual screenshot if available -->
 
----
+--- -->
 
 ## 📝 Projects Showcased
 
